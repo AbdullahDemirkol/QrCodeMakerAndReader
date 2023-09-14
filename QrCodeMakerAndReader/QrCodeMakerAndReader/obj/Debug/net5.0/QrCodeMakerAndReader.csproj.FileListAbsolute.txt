@@ -1,0 +1,5 @@
+C:\Users\Abdullah\Desktop\Yeni klasör (3)\QrCodeMakerAndReader\QrCodeMakerAndReader\QrCodeMakerAndReader\obj\Debug\net5.0\QrCodeMakerAndReader.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\Yeni klasör (3)\QrCodeMakerAndReader\QrCodeMakerAndReader\QrCodeMakerAndReader\obj\Debug\net5.0\QrCodeMakerAndReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\Desktop\Yeni klasör (3)\QrCodeMakerAndReader\QrCodeMakerAndReader\QrCodeMakerAndReader\obj\Debug\net5.0\QrCodeMakerAndReader.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\Yeni klasör (3)\QrCodeMakerAndReader\QrCodeMakerAndReader\QrCodeMakerAndReader\obj\Debug\net5.0\QrCodeMakerAndReader.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\Yeni klasör (3)\QrCodeMakerAndReader\QrCodeMakerAndReader\QrCodeMakerAndReader\obj\Debug\net5.0\QrCodeMakerAndReader.csproj.CoreCompileInputs.cache
